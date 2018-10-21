@@ -1,0 +1,12 @@
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Dado\Dado\bin\Debug\Dado.exe.config
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Dado\Dado\bin\Debug\Dado.exe
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Dado\Dado\bin\Debug\Dado.pdb
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Dado\Dado\obj\Debug\Dado.Form1.resources
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Dado\Dado\obj\Debug\Dado.Properties.Resources.resources
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Dado\Dado\obj\Debug\Dado.csproj.GenerateResource.Cache
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Dado\Dado\obj\Debug\Dado.exe
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Dado\Dado\obj\Debug\Dado.pdb
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Dado\Dado\obj\Debug\Dado.csprojResolveAssemblyReference.cache
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\6. Dado\Dado\bin\Debug\Dado.exe.config
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\6. Dado\Dado\obj\Debug\Dado.exe
+E:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\6. Dado\Dado\obj\Debug\Dado.pdb
